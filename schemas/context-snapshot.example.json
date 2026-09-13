@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-09-13T03:46:00Z",
+  "time_of_day": "night",
+  "is_daylight": false,
+  "season": "autumn",
+  "weather": {
+    "condition": "clear",
+    "temperature_c": 14.2,
+    "feels_like_c": 13.0,
+    "severe": false
+  },
+  "location": {
+    "permission_granted": false,
+    "city": null,
+    "region": null,
+    "country": null,
+    "lat": null,
+    "lon": null
+  },
+  "activity": "unknown",
+  "mood": "unknown",
+  "local_events": [],
+  "worldwide_events": [],
+  "listening_history_summary": {
+    "recent_moods": [],
+    "recent_skips": 0,
+    "last_tracks": []
+  },
+  "explicit_request": null
+}

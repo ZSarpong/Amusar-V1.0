@@ -1,0 +1,11 @@
+{
+  "recommended_queue": [],
+  "target_gain": 0.8,
+  "transition_duration_ms": 2000,
+  "energy_level": 0.35,
+  "mood_classification": "calm",
+  "shuffle_behaviour": "none",
+  "playback_priority": "default",
+  "explanation": "No approved catalogue tracks available yet — engine in foundation stage",
+  "confidence": 0.0
+}
