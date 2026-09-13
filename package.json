@@ -1,0 +1,13 @@
+{
+  "name": "amusar-v1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Amusar V1.0 — Music intelligence engine for Muusio.com",
+  "scripts": {
+    "dev": "echo \"Engine modules under development — live interface remains at muusio.com\"",
+    "build": "echo \"No public build yet — preserve existing Muusio interface\"",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": ["amusar", "muusio", "music-intelligence"],
+  "license": "UNLICENSED"
+}
